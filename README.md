@@ -50,6 +50,7 @@
 
 ---
 
+### 💡 Fun Addition!
 <p align="center">
   <strong style="color: #FF1493; font-weight: bold;">"Working hard today for a brighter future tomorrow! 💪✨"</strong><br>
   <strong style="color: #FF1493;">I love what I do and I'm passionate about building my dreams 🌟💻✨</strong>
