@@ -1,6 +1,10 @@
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&color=FF1493&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+💖;+I'm+Maria+El+Houdaigui+🌸;Welcome+to+My+Coder+Girl+World" />
 </h1>
+<p align="center">
+    <img src="Mgif (2).gif" width="700" />
+</p>
 
 ---
 
@@ -35,16 +39,9 @@
 
 ### 🛠️ Technologies & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hadoop-FF1493?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerBI-FF1493?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white" />
+  <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,html,css,js,java,hadoop,mongodb,tableau,eclipse,flask,docker,git,tensorflow,pytorch,jupyter,react,sqlite,kafka,oracle&perline=8" />
+  </a>
 </p>
 
 ---
@@ -59,7 +56,9 @@
 
 ### 🌸 Fun Addition!  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8sFn8xjDg4mrG/giphy.gif" width="400" />
+  <img src="assets/mon_gif.gif" width="700" />
   <br>
-  <em>I code with passion, creativity, and a sprinkle of sparkle! 🌟💻✨</em>
+  <em>"Working hard today for a brighter future tomorrow! 💪✨
+      <br>I love what I do and I'm passionate about building my dreams 🌟💻✨" </em>
 </p>
+
