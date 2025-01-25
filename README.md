@@ -69,11 +69,12 @@
 
 ---
 
-### 💡 Fun Addition!
+### 🎓 Fun Addition!
 <div align="center" style="background-color: #282a36; padding: 20px; border-radius: 10px; color: #f8f8f2; font-family: Arial, sans-serif;">
-  <h3 style="color: #FF79C6; font-weight: bold;">✨🌟 "Working hard today for a brighter future tomorrow!" 🌟✨</h3>
+  <h3 style="color: #FF79C6; font-weight: bold;">🌸🌟 "Working hard today for a brighter future tomorrow!" 🌟🌸</h3>
   <p style="color: #FF79C6; font-size: 16px; margin-top: 10px;">
-    I love what I do and I'm passionate about building my dreams 🌟💻✨
+    I love what I do and I'm passionate about building my dreams 💻✨
   </p>
 </div>
 
+<img align="right" src="Mgif (2).gif" width ="300" />
