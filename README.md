@@ -34,25 +34,46 @@
 ---
 
 ### 🛠️ Technologies & Tools  
-<p align="center">
-  <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,html,css,js,java,hadoop,mongodb,tableau,eclipse,flask,docker,git,tensorflow,pytorch,jupyter,react,sqlite,kafka,oracle&perline=8" />
-  </a>
-</p>
+
+<div align="center">
+    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,html,css,js,java,hadoop,mongodb,tableau,eclipse,flask,docker,git&perline=13" />
+    </a>
+        <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,jupyter,opencv,pandas,debian,react,sqlite,kafka,oracle,matlab&titles=true" />
+        </a>
+    <br>
+    
+</div>
+
 
 ---
-
 ### 💻 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaelhoudaigui&show_icons=true&theme=tokyonight" alt="Maria's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaelhoudaigui&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  <!-- GitHub Streak -->
+   <img width=390 height=160 src="https://github-readme-streak-stats-eight.vercel.app/?user=mariaelhoudaigui&theme=dracula&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  
+  <!-- GitHub Stats -->
+  <img width=390 height=160 src="https://github-readme-stats.vercel.app/api?username=mariaelhoudaigui&count_private=true&show_icons=true&theme=dracula&border_radius=10&rank_icon=github" alt="Readme Stats" />
+  <br/>
+
+  <!-- Top Languages -->
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaelhoudaigui&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+</div>
+
+
+
+
+
+
 
 ---
 
 ### 💡 Fun Addition!
-<p align="center">
-  <strong style="color: #FF1493; font-weight: bold;">"Working hard today for a brighter future tomorrow! 💪✨"</strong><br>
-  <strong style="color: #FF1493;">I love what I do and I'm passionate about building my dreams 🌟💻✨</strong>
-</p>
+<div align="center" style="background-color: #282a36; padding: 20px; border-radius: 10px; color: #f8f8f2; font-family: Arial, sans-serif;">
+  <h3 style="color: #FF79C6; font-weight: bold;">✨🌟 "Working hard today for a brighter future tomorrow!" 🌟✨</h3>
+  <p style="color: #FF79C6; font-size: 16px; margin-top: 10px;">
+    I love what I do and I'm passionate about building my dreams 🌟💻✨
+  </p>
+</div>
 
