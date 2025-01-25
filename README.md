@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&color=FF1493&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+💖;+I'm+Maria+El+Houdaigui+🌸;Welcome+to+My+GITHUB+Account" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&color=FF1493&center=true&vCenter=true&width=600&height=70&lines=Hello+World+💖;+I'm+Maria+El+Houdaigui+🌸;Welcome+to+My+GIT+HUB+💻" />
 </h1>
 
 ---
@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Data Engineering** and diving into **AI tools**.  
 - 👯 I’m looking to collaborate on **creative and innovative projects**.  
 - 📫 Reach me at: [maria.elhoudaigui@gmail.com](mailto:maria.elhoudaigui@gmail.com).  
-- 🌟 Fun fact: I love exploring new things and keeping up with the latest trends—I'm a curious soul! 🧠✨  
+- 🌟 Fact: I love exploring new things and keeping up with the latest trends—I'm a curious soul! 🧠✨  
 
 ---
 
