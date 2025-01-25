@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Data Engineering** and diving into **AI tools**.  
 - 👯 I’m looking to collaborate on **creative and innovative projects**.  
 - 📫 Reach me at: [maria.elhoudaigui@gmail.com](mailto:maria.elhoudaigui@gmail.com).  
-- 🌟 Fun fact: I’m a **lifelong learner** and love **new challenges**! 💡✨  
+- 🌟 Fun fact: I love exploring new things and keeping up with the latest trends—I'm a curious soul! 🧠✨  
 
 ---
 
