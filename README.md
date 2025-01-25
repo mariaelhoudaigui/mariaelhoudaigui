@@ -16,13 +16,16 @@
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-el-houdaigui/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" target="_blank"/>
   </a>
-  <a href="mailto:maria.elhoudaigui@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:maria.elhoudaigui@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank" />
+  </a>
+  <a href="https://www.kaggle.com/mariaelhoudaigui" target="_blank">
+     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
   </a>
 </p>
 
