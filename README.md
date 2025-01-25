@@ -1,10 +1,6 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&color=FF1493&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+💖;+I'm+Maria+El+Houdaigui+🌸;Welcome+to+My+Coder+Girl+World" />
 </h1>
-<p align="center">
-    <img src="Mgif (2).gif" width="700" />
-</p>
 
 ---
 
@@ -54,11 +50,8 @@
 
 ---
 
-### 🌸 Fun Addition!  
 <p align="center">
-  <img src="assets/mon_gif.gif" width="700" />
-  <br>
-  <em>"Working hard today for a brighter future tomorrow! 💪✨
-      <br>I love what I do and I'm passionate about building my dreams 🌟💻✨" </em>
+  <strong style="color: #FF1493; font-weight: bold;">"Working hard today for a brighter future tomorrow! 💪✨"</strong><br>
+  <strong style="color: #FF1493;">I love what I do and I'm passionate about building my dreams 🌟💻✨</strong>
 </p>
 
