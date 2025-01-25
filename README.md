@@ -76,5 +76,5 @@
     I love what I do and I'm passionate about building my dreams 💻✨
   </p>
 </div>
-
-<img align="right" src="Mgif (2).gif" width ="300" />
+<br>
+<img align= "right" src="mgif.gif" width ="200" />
