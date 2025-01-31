@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/maria-el-houdaigui/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://mariaelhoudaigui.github.io/Maria_protofolio/generic.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" target="_blank"/>
   </a>
   <a href="mailto:maria.elhoudaigui@gmail.com" target="_blank"> 
