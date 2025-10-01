@@ -35,15 +35,13 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=mariaelhoudaigui&label=Visitors&color=FF1493&style=flat)
 
 ---
-
-### 🛠️ Technologies & Tools  
-
 ### 🛠️ Technologies & Tools  
 
 <div align="center">
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,sqlserver,postgresql,mongodb,redis,hbase,cosmosdb,python,java,c,plsql,php,hadoop,cloudera,kafka,ssis,talend,html,css,js,react,docker,kubernetes,oraclecloud,azure,flask,git,github,tensorflow,pytorch,scikitlearn,keras,jupyter,opencv,pandas,matplotlib,seaborn,powerbi,excel,ubuntu,linux,windowsserver,merise,um&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,sqlserver,postgresql,mongodb,redis,hbase,python,java,c,plsql,php,hadoop,kafka,html,css,js,react,docker,kubernetes,oraclecloud,azure,flask,git,github,tensorflow,pytorch,scikitlearn,keras,jupyter,opencv,pandas,matplotlib,seaborn,powerbi,excel,ubuntu,linux,windows&perline=13" />
     </a>
+</div>
 
 </div>
 
