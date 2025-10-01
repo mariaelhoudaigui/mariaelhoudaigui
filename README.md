@@ -42,14 +42,9 @@
 
 <div align="center">
     <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,sqlserver,postgresql,mongodb,redis,hbase,cosmosdb,python,java,c,plsql,php,hadoop,cloudera,kafka,ssis,talend&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,oracle,sqlserver,postgresql,mongodb,redis,hbase,cosmosdb,python,java,c,plsql,php,hadoop,cloudera,kafka,ssis,talend,html,css,js,react,docker,kubernetes,oraclecloud,azure,flask,git,github,tensorflow,pytorch,scikitlearn,keras,jupyter,opencv,pandas,matplotlib,seaborn,powerbi,excel,ubuntu,linux,windowsserver,merise,um&perline=13" />
     </a>
-    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,docker,kubernetes,oraclecloud,azure,flask,git,github&perline=13" />
-    </a>
-    <a href="https://github.com/lelouchfr/skill-icons" target="_blank">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn,keras,jupyter,opencv,pandas,matplotlib,seaborn,powerbi,ssas,ssrs,excel,ubuntu,linux,windowsserver,merise,uml&titles=true&perline=13" />
-    </a>
+
 </div>
 
 
